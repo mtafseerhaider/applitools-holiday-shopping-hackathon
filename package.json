@@ -1,0 +1,28 @@
+{
+  "name": "applitools-holiday-shopping-hackathon",
+  "version": "1.0.0",
+  "description": "I have created this Hackathon project to participate in the Applitools Holiday Shopping Hackathon 2020 challenge. This project is based on Selenium WenDriver using Java language.",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run-pv1": "cypress run --env configFile=v1-prod",
+    "cy:run-pv2": "cypress run --env configFile=final-prod",
+    "cy:run-dev": "cypress run --env configFile=dev-branch",
+    "cy:run-dashboard": "cypress run --record --key b76f6ce8-9373-4b8f-a701-c1a58b53d606"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation",
+    "sdet"
+  ],
+  "author": "Muhammad Tafseer Haider",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.0.1",
+    "@applitools/eyes-cypress": "^3.16.1",
+    "@types/fs-extra": "^9.0.4",
+    "prettier": "^2.2.1"
+  }
+}

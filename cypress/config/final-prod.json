@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://demo.applitools.com/",
+  "env": {
+    "APP_PATH": "tlcHackathonMasterV2.html",
+    "VERSION": "Production V2"
+  }
+}

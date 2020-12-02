@@ -1,0 +1,10 @@
+# cypress
+cypress/screenshots
+cypress/videos
+
+#npm
+node_modules
+
+# Logs
+logs
+*.log
