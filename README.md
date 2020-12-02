@@ -25,9 +25,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 3. **npm i** to install the project dependencies
 
-4. Add your Applitools API Key to your system environment variables 
-   Use **export APPLITOOLS_API_KEY= {yourAPIKey}** if you are on MacOs or Linux 
-   Use **set APPLITOOLS_API_KEY= {yourAPIKey}** if you are on Windows 
+4. Add your Applitools API Key to your system environment variables  
+   Use **export APPLITOOLS_API_KEY= {yourAPIKey}** if you are on MacOs or Linux  
+   Use **set APPLITOOLS_API_KEY= {yourAPIKey}** if you are on Windows  
 
 5. Execute below NPM commands to run tests on different versions of the Applifashion app 
    a. for running tests on V1 production version 
