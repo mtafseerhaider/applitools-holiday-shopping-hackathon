@@ -122,7 +122,7 @@ https://eyes.applitools.com/app/test-results/00000251795371622773?accountId=ruqg
 ## Author
 
 - MUHAMMAD TAFSEER HAIDER  
-  Principal Software Engineer, SDET 
+  Principal Software Engineer, SDET  
   Afiniti
 
 ## Contact 
