@@ -3,7 +3,7 @@
 I have created this Hackathon project to participate in the **Applitools Holiday Shopping Hackathon 2020** challenge.
 This project is based on Cypress using JavaScript language.
 
-This README includes information about the project structure and instructions to execute the tests on all the three different versions of Applifashion application.
+This README includes information about the project structure and instructions to execute the tests on all the three different versions of AppliFashion app.
 
 ## Technologies
 
